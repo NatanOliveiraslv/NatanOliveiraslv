@@ -22,5 +22,5 @@
 
 ##
 
-![Snake animation](https://github.com/NatanOliveiraslv/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/NatanOliveiraslv/NatanOliveiraslv/blob/output/github-contribution-grid-snake.svg)
 

@@ -1,4 +1,4 @@
-### Hi there 👋
+##Olá sou o Natan Oliveira da Silva
 
 - 🔭 Ainda não trabalho profissionalmente, mas gosto de desenvolver projetos pessoais
 - 🌱 Estudando SQL e JAVA

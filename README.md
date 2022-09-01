@@ -4,7 +4,6 @@
 - 🌱 Estudando SQL e JAVA
 - 📫 Contate-me no email: natanoliveiraslv14@gmail.com 
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: ...
 
 <div align="center">
   <a href="https://github.com/NatanOliveiraslv">

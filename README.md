@@ -1,7 +1,7 @@
 ## Olá, sou o Natan Oliveira da Silva
 
 - 🔭 Ainda não trabalho profissionalmente, mas gosto de desenvolver projetos pessoais
-- 🌱 Estudando SQL, Java, HTML, CSS, PHP
+- 🌱 Estudando SQL, Java, HTML, CSS, PHP, Python
 - 📫 Contate-me no email: natanoliveiraslv14@gmail.com 
 - 😄 Pronouns: ele/dele
 ##

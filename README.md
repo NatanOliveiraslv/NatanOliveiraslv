@@ -3,7 +3,7 @@
 - 🔭 Ainda não trabalho profissionalmente, mas gosto de desenvolver projetos pessoais
 - 🌱 Estudando SQL, Java, HTML, CSS, PHP, Python
 - 📫 Contate-me no email: natanoliveiraslv14@gmail.com 
-- 😄 Pronome: ele/dele
+
 ##
 <div align="center">
   <a style= "text-decoration: none !important" href="https://github.com/NatanOliveiraslv">

@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Natan Oliveira</h1>
-<p align="center"><i>Estudante de Ciência da Computação | Desenvolvedor em formação</i></p>
+<p align="center"><i>Graduado em Ciência da Computação | Desenvolvedor em formação</i></p>
 
 ---
 

@@ -1,99 +1,94 @@
-<h1 align="center">Olá, eu sou Natan Oliveira 👋</h1>
+<!-- README de perfil para NatanOliveiraslv -->
 
-<p align="center">
-  <strong>Desenvolvimento de Software | Backend & Full Stack</strong>
-</p>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,100:06B6D4&height=190&section=header&text=Natan%20Oliveira&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Backend%20%7C%20Full%20Stack%20Developer&descSize=17&descAlignY=58&animation=fadeIn" alt="Banner de Natan Oliveira" />
 
-<p align="center">
-  <a href="https://github.com/NatanOliveiraslv">
-    <img src="https://img.shields.io/github/followers/NatanOliveiraslv?label=Seguidores&style=social" alt="Seguidores no GitHub">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&height=55&lines=Transformando+ideias+em+c%C3%B3digo;Java+%7C+Spring+Boot+%7C+Python+%7C+Django;Aprender+.+Construir+.+Testar+.+Evoluir" alt="Texto animado: transformando ideias em código" />
   </a>
-  <a href="https://www.linkedin.com/in/natan-oliveira-da-silva-3b7365221/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:natanoliveiraslv14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-red?logo=gmail&logoColor=white" alt="E-mail">
-  </a>
-</p>
 
-## 👨‍💻 Sobre mim
+  <p>
+    <a href="https://github.com/NatanOliveiraslv"><img src="https://img.shields.io/badge/GitHub-NatanOliveiraslv-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/natan-oliveira-da-silva-3b7365221/"><img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="mailto:natanoliveiraslv14@gmail.com"><img src="https://img.shields.io/badge/Email-Fale%20comigo-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+  </p>
+</div>
 
-Sou graduado em **Ciência da Computação** e tenho interesse em desenvolvimento de software, principalmente nas áreas de **Backend e Full Stack**. Desenvolvo projetos pessoais e acadêmicos para aplicar e aprofundar meus conhecimentos em programação, APIs, autenticação, bancos de dados e integração entre sistemas.
+---
 
-Minha experiência profissional em tecnologia inclui suporte a sistemas, investigação de incidentes, análise de logs, integrações e requisições a APIs, além de documentação técnica e colaboração com equipes. Em paralelo, sigo construindo projetos próprios e buscando uma oportunidade para crescer profissionalmente na área de desenvolvimento.
+## `$ whoami`
 
-- 🔭 **Projeto em andamento:** aplicação de acesso remoto a desktops (Remote Desktop).
-- 🧩 **Interesses técnicos:** desenvolvimento Backend, APIs REST, segurança de aplicações e integração de sistemas.
-- 🌱 **Aprendizado contínuo:** procuro transformar conceitos em aplicações práticas e melhorar a qualidade e a organização do código.
-- 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/natan-oliveira-da-silva-3b7365221/) · [E-mail](mailto:natanoliveiraslv14@gmail.com)
+```yaml
+nome: Natan Oliveira
+área: Desenvolvimento de Software
+foco: Backend e Full Stack
+base: Java, Spring Boot, Python, Django, JavaScript e React
+modo_de_trabalho: investigar → construir → testar → melhorar
+status: criando projetos e evoluindo um commit por vez
+```
 
-## 🛠️ Tecnologias e ferramentas
+Sou graduado em Ciência da Computação e gosto de transformar ideias em aplicações funcionais. Tenho experiência prática em projetos pessoais e acadêmicos envolvendo APIs, autenticação, bancos de dados relacionais e integração entre frontend e backend.
 
-### Linguagens e desenvolvimento
+Minha experiência profissional em tecnologia também me trouxe prática em investigação de incidentes, análise de logs, integrações e documentação técnica. Gosto de entender a causa de um problema, explorar alternativas e aprender construindo.
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
+## 🧰 Ferramentas no meu radar
 
-### Frameworks, bancos de dados e ferramentas
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,js,react,html,css,postgres,mysql,git,github,aws,vscode,idea&perline=8" alt="Tecnologias e ferramentas" />
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
+<details>
+  <summary><strong>O que costumo explorar no desenvolvimento</strong></summary>
+  <br />
 
-Conhecimentos aplicados em projetos: **APIs REST, Programação Orientada a Objetos, autenticação JWT/OAuth2, Spring Security, integração com bancos relacionais e testes com JUnit/Mockito**.
+  - **Backend:** APIs REST, autenticação e autorização, regras de negócio e tratamento de exceções.
+  - **Dados:** SQL e bancos de dados relacionais.
+  - **Frontend:** interfaces web com React e JavaScript.
+  - **Qualidade e colaboração:** Git, documentação técnica, testes e investigação de falhas.
+</details>
 
-## 🚀 Projetos em destaque
+## 🧪 Status atual
 
-### [Remote Desktop](https://github.com/NatanOliveiraslv/Remote-desktop)
-Projeto pessoal **em desenvolvimento** para acesso remoto a desktops. O repositório está organizado em módulos separados para agente remoto, servidor e cliente web, explorando comunicação entre componentes e WebSocket.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🔭 Construindo</strong><br />
+      Um projeto de acesso remoto a desktops, com agente, servidor e cliente web, explorando comunicação entre componentes e WebSocket.
+    </td>
+    <td width="50%" valign="top">
+      <strong>🧠 Meu jeito de aprender</strong><br />
+      Parto de um problema, pesquiso possibilidades, implemento uma versão funcional e uso os erros como pistas para melhorar a solução.
+    </td>
+  </tr>
+</table>
 
-**Tecnologias:** Java, Spring Boot, React e WebSocket.
+## 📡 Telemetria do GitHub
 
-### [Gasto Comum — Backend](https://github.com/NatanOliveiraslv/SpringBoot-GastoComum)
-API para gerenciamento de despesas compartilhadas, com recursos de autenticação, gerenciamento de usuários e grupos, divisão de contas e tratamento personalizado de exceções.
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NatanOliveiraslv&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanOliveiraslv&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Linguagens mais usadas nos repositórios públicos" />
+</div>
 
-**Tecnologias:** Java, Spring Boot, Spring Security, JWT, OAuth2, JPA, SQL e Maven.
+<div align="center">
+  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=NatanOliveiraslv&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
+</div>
 
-### [Gasto Comum — Frontend](https://github.com/NatanOliveiraslv/React-GastoComum)
-Interface web para consumir a API do Gasto Comum, com telas de autenticação, gerenciamento de despesas e visualização de informações financeiras.
+## 🧊 Meu código em 3D
 
-**Tecnologias:** React, JavaScript, React Router, Tailwind CSS e Axios.
+<div align="center">
+  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Calendário 3D das contribuições no GitHub" />
+</div>
 
-### [Compilador](https://github.com/NatanOliveiraslv/Compilador)
-Compilador/intérprete simples desenvolvido em Java para uma linguagem fictícia, com análise léxica e sintática, expressões, variáveis e estruturas de controle.
+<p align="center"><sub>Este painel é gerado automaticamente pelo GitHub Actions e atualizado diariamente.</sub></p>
 
-**Tecnologias:** Java, JFlex e CUP.
+## 🤝 Vamos trocar ideias?
 
-### [SalaRitter — Sistema de administração escolar](https://github.com/NatanOliveiraslv/A3_DevWeb_SalaRitter)
-Projeto acadêmico para administração de alunos, professores, turmas, matérias e atividades, com endpoints REST e persistência em banco de dados relacional.
+<div align="center">
+  <a href="https://github.com/NatanOliveiraslv">Explore meus repositórios</a> ·
+  <a href="https://www.linkedin.com/in/natan-oliveira-da-silva-3b7365221/">Conecte-se no LinkedIn</a> ·
+  <a href="mailto:natanoliveiraslv14@gmail.com">Envie um e-mail</a>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=NatanOliveiraslv&style=flat-square&color=6366F1&label=visitas+ao+perfil" alt="Contador de visualizações do perfil" />
+</div>
 
-**Tecnologias:** Python, Django e PostgreSQL.
-
-## 🎓 Formação e certificações
-
-- **Ciência da Computação** — Centro Universitário Ritter dos Reis (UniRitter), graduação concluída em 2025.
-- **AWS Academy Graduate — Cloud Foundations**.
-- **JavaScript Essentials 1 — Cisco Networking Academy**.
-
-## 🤝 Vamos nos conectar?
-
-Estou aberto a oportunidades de desenvolvimento de software e a trocar conhecimentos com a comunidade.
-
-<p>
-  <a href="https://www.linkedin.com/in/natan-oliveira-da-silva-3b7365221/">LinkedIn</a> ·
-  <a href="https://github.com/NatanOliveiraslv">GitHub</a> ·
-  <a href="mailto:natanoliveiraslv14@gmail.com">E-mail</a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:312E81,100:0F172A&height=100&section=footer" alt="Rodapé decorativo" />

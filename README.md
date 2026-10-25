@@ -66,20 +66,11 @@ Minha experiência profissional em tecnologia também me trouxe prática em inve
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=NatanOliveiraslv&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanOliveiraslv&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Linguagens mais usadas nos repositórios públicos" />
 </div>
 
 <div align="center">
   <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=NatanOliveiraslv&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
 </div>
-
-## 🧊 Meu código em 3D
-
-<div align="center">
-  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Calendário 3D das contribuições no GitHub" />
-</div>
-
-<p align="center"><sub>Este painel é gerado automaticamente pelo GitHub Actions e atualizado diariamente.</sub></p>
 
 ## 🤝 Vamos trocar ideias?
 

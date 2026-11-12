@@ -65,10 +65,6 @@ Minha experiência profissional em tecnologia também me trouxe prática em inve
 ## 📡 Telemetria do GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NatanOliveiraslv&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub" />
-</div>
-
-<div align="center">
   <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=NatanOliveiraslv&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
 </div>
 
